@@ -10,6 +10,7 @@ WEAPON_BASE_EFFECTS
             effects = [
                 SetMaxCapacity partname = "@1@" value = Value + PartCapacity name = "@1@"
                 SetMaxSecondaryStat partname = "@1@" value = Value + PartSecondaryStat name = "@1@"
+                SetMaxTertiaryStat partname = "@1@" value = Value + PartTertiaryStat name = "@1@"
             ]
 '''
 
